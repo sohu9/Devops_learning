@@ -22,21 +22,32 @@ I’ve started learning DevOps from scratch and will document my progress day by
   - Created AWS free-tier account
   - Explored AWS Management Console
 
+---
 
-----
+## ✅ Day 3 - Linux for DevOps
 
+👥 **Created users & groups using:**  
+`useradd`, `groupadd`, `usermod`
 
-🚀 Day 3 of My DevOps Journey ✅
+📁 **Practiced file handling:**  
+`ls`, `cd`, `mkdir`, `rm`, `cp`, `mv`
 
-👨‍💻 Day 3 - Linux for DevOps
-👥 Created users & groups using useradd, groupadd, usermod
-📁 Practiced file handling: ls, cd, mkdir, rm, cp, mv
-🔐 Managed permissions: chmod, chown, chgrp
-⚙️ Process & network commands: ps, top, ping, curl, wget
-📄 Viewed logs with: cat, tail, journalctl
-📦 Installed packages via apt install, apt remove
+🔐 **Managed permissions:**  
+`chmod`, `chown`, `chgrp`
 
-🧠 Confident in working with Linux terminal — a solid foundation for DevOps tools ahead!
+⚙️ **Process & network commands:**  
+`ps`, `top`, `ping`, `curl`, `wget`
 
-🔗 LinkedIn Profile: https://www.linkedin.com/in/momin-shoaib-02730829a
+📄 **Viewed logs with:**  
+`cat`, `tail`, `journalctl`
+
+📦 **Installed packages via:**  
+`apt install`, `apt remove`
+
+🧠 I now feel confident working with Linux terminal — a solid foundation for DevOps tools like Docker, Jenkins & more.
+
+🔗 [View LinkedIn Profile](https://www.linkedin.com/in/momin-shoaib-02730829a)
+
+---
+
 
