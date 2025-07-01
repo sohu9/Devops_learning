@@ -50,4 +50,25 @@ I’ve started learning DevOps from scratch and will document my progress day by
 
 ---
 
+## ✅ Day 4 – Linux for DevOps
+
+👥 **Managed users & groups with:**  
+`adduser`, `usermod`, `id`, `groups`
+
+📁 **Handled files & directories using:**  
+`ls`, `pwd`, `cd`, `mkdir`, `rm -rf`, `touch`, `mv`
+
+🔐 **Modified file permissions with:**  
+`chmod`, `chown`, `ls -l`
+
+⚙️ **Monitored processes & resources using:**  
+`ps`, `top`, `kill`, `htop`
+
+📦 **Installed packages using:**  
+`sudo apt update`, `sudo apt upgrade`, `apt install`, `apt remove`
+
+🧠 **Key Insight:**  
+Getting more comfortable with Linux terminal day by day. It’s clear how deeply it's connected to **Docker**, **CI/CD**, **cloud**, and all core DevOps tools.
+
+🔗 [View LinkedIn Profile](https://www.linkedin.com/in/sohu9)
 
