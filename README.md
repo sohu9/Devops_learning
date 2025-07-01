@@ -67,8 +67,6 @@ I’ve started learning DevOps from scratch and will document my progress day by
 📦 **Installed packages using:**  
 `sudo apt update`, `sudo apt upgrade`, `apt install`, `apt remove`
 
-🧠 **Key Insight:**  
-Getting more comfortable with Linux terminal day by day. It’s clear how deeply it's connected to **Docker**, **CI/CD**, **cloud**, and all core DevOps tools.
+🧠 I now feel more confident with Linux terminal — a strong base for DevOps tools like **Docker**, **Jenkins**, **Kubernetes**, and more.
 
-🔗 [View LinkedIn Profile](https://www.linkedin.com/in/sohu9)
-
+🔗 [View LinkedIn Profile](https://www.linkedin.com/in/momin-shoaib-02730829a)
